@@ -22,6 +22,6 @@ These are homework projects that I worked on during college.
 - learned how to review others code
 
 
-**5. Store manager in:**
+**5. Store manager:**
 - learned how important encapsulation is 
 - learned how C++ OOP works
