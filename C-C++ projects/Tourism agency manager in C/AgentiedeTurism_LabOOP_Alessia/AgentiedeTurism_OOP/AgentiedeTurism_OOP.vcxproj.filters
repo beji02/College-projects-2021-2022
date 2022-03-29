@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Header Files\Domain">
+      <UniqueIdentifier>{29672d97-0333-4f3f-9722-440513a8c2ef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Service">
+      <UniqueIdentifier>{a18e0fe9-dba9-4ed6-8dcc-fffdd0ed870d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI">
+      <UniqueIdentifier>{217824ee-5210-467d-8cdc-d7e1e596da7d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Repository">
+      <UniqueIdentifier>{8fd977ef-86b8-48ed-97df-608059450cf9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DynamicArray">
+      <UniqueIdentifier>{b83b76ba-5dcc-4af0-bbca-c843b4576537}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Service\Others">
+      <UniqueIdentifier>{b1a5cfd8-b1cf-4e9a-a518-efabbb8534a1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Domain\Others">
+      <UniqueIdentifier>{4fe8600c-c0d4-4824-b14c-127cb86d3c42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Domain\Offer">
+      <UniqueIdentifier>{0babe3ff-e243-4345-8ecc-182ccd8c0f42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Domain\Validator">
+      <UniqueIdentifier>{c8359f9b-10ee-4550-9f12-49b42f4cd113}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Libraries">
+      <UniqueIdentifier>{0677b638-66e9-4bec-b60c-054fcd21ebea}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\UI\Others">
+      <UniqueIdentifier>{dab7fdc2-ea6c-4a03-b8a9-588d4be3c817}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DynamicArray.c">
+      <Filter>Header Files\DynamicArray</Filter>
+    </ClCompile>
+    <ClCompile Include="Repository.c">
+      <Filter>Header Files\Repository</Filter>
+    </ClCompile>
+    <ClCompile Include="operatii.c">
+      <Filter>Header Files\Service\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="mysort.c">
+      <Filter>Header Files\Service\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="Service.c">
+      <Filter>Header Files\Service</Filter>
+    </ClCompile>
+    <ClCompile Include="oferta.c">
+      <Filter>Header Files\Domain\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="validators.c">
+      <Filter>Header Files\Domain\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="Offer.c">
+      <Filter>Header Files\Domain\Offer</Filter>
+    </ClCompile>
+    <ClCompile Include="OfferValidator.c">
+      <Filter>Header Files\Domain\Validator</Filter>
+    </ClCompile>
+    <ClCompile Include="Libraries.h">
+      <Filter>Header Files\Libraries</Filter>
+    </ClCompile>
+    <ClCompile Include="console.c">
+      <Filter>Header Files\UI\Others</Filter>
+    </ClCompile>
+    <ClCompile Include="ConsoleUI.c">
+      <Filter>Header Files\UI</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DynamicArray.h">
+      <Filter>Header Files\DynamicArray</Filter>
+    </ClInclude>
+    <ClInclude Include="Repository.h">
+      <Filter>Header Files\Repository</Filter>
+    </ClInclude>
+    <ClInclude Include="operatii.h">
+      <Filter>Header Files\Service\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="mysort.h">
+      <Filter>Header Files\Service\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="Service.h">
+      <Filter>Header Files\Service</Filter>
+    </ClInclude>
+    <ClInclude Include="oferta.h">
+      <Filter>Header Files\Domain\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="Offer.h">
+      <Filter>Header Files\Domain\Offer</Filter>
+    </ClInclude>
+    <ClInclude Include="OfferValidator.h">
+      <Filter>Header Files\Domain\Validator</Filter>
+    </ClInclude>
+    <ClInclude Include="console.h">
+      <Filter>Header Files\UI\Others</Filter>
+    </ClInclude>
+    <ClInclude Include="ConsoleUI.h">
+      <Filter>Header Files\UI</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

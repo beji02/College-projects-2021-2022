@@ -1,0 +1,21 @@
+[2022-03-27 11:24:51] [info] Start Program:
+Path:"D:\Oop\project_lab5\Project\x64\Debug\Project.exe"
+Arguments:
+Working directory: "D:\Oop\project_lab5\Project\Project\"
+Modules: Selected: D:\Oop\project_lab5\Project\x64\Debug\Project.exe Excluded: 
+Sources: Selected: D:\Oop\project_lab5\Project\Project Excluded: main.cpp console.cpp console.h 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\bejan\AppData\Local\Temp\r0kxejwb.g5s 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-03-27 11:24:51] [info] Module: D:\Oop\project_lab5\Project\x64\Debug\Project.exe is selected because it matches selected pattern: D:\Oop\project_lab5\Project\x64\Debug\Project.exe
+[2022-03-27 11:24:51] [info] ----------------------------------------------------
+[2022-03-27 11:24:51] [info] Coverage binary generated in file: C:\Users\bejan\AppData\Local\Temp\r0kxejwb.g5s
+[2022-03-27 11:24:51] [info] ----------------------------------------------------

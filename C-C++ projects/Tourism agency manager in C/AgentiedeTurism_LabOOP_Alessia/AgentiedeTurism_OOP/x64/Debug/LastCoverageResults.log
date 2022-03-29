@@ -1,0 +1,21 @@
+[2022-03-25 13:24:39] [info] Start Program:
+Path:"D:\Oop\AgentiedeTurism_LabOOP_Alessia\AgentiedeTurism_OOP\x64\Debug\AgentiedeTurism_OOP.exe"
+Arguments:
+Working directory: "D:\Oop\AgentiedeTurism_LabOOP_Alessia\AgentiedeTurism_OOP\x64\Debug"
+Modules: Selected: D:\Oop\AgentiedeTurism_LabOOP_Alessia\AgentiedeTurism_OOP\x64\Debug\AgentiedeTurism_OOP.exe Excluded: 
+Sources: Selected: D:\Oop\AgentiedeTurism_LabOOP_Alessia\AgentiedeTurism_OOP Excluded: console.c main.c oferta.c validators.c mysort.c operatii.c consoleUI.c 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\bejan\AppData\Local\Temp\0qzwivtt.jui 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-03-25 13:24:40] [info] Module: D:\Oop\AgentiedeTurism_LabOOP_Alessia\AgentiedeTurism_OOP\x64\Debug\AgentiedeTurism_OOP.exe is selected because it matches selected pattern: D:\Oop\AgentiedeTurism_LabOOP_Alessia\AgentiedeTurism_OOP\x64\Debug\AgentiedeTurism_OOP.exe
+[2022-03-25 13:24:40] [info] ----------------------------------------------------
+[2022-03-25 13:24:40] [info] Coverage binary generated in file: C:\Users\bejan\AppData\Local\Temp\0qzwivtt.jui
+[2022-03-25 13:24:40] [info] ----------------------------------------------------

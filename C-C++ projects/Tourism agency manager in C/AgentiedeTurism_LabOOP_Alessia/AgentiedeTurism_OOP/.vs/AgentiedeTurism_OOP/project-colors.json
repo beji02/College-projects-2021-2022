@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "46b9c73c-7410-4f06-be96-ea0edd176699": {
+      "ProjectGuid": "46b9c73c-7410-4f06-be96-ea0edd176699",
+      "DisplayName": "AgentiedeTurism_OOP",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}

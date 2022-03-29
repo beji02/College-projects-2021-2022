@@ -1,0 +1,21 @@
+[2022-03-18 14:01:56] [info] Start Program:
+Path:"C:\Users\aless\source\repos\AgentiedeTurism_OOP\x64\Debug\AgentiedeTurism_OOP.exe"
+Arguments:
+Working directory: "C:\Users\aless\source\repos\AgentiedeTurism_OOP\AgentiedeTurism_OOP\"
+Modules: Selected: C:\Users\aless\source\repos\AgentiedeTurism_OOP\x64\Debug\AgentiedeTurism_OOP.exe Excluded: 
+Sources: Selected: C:\Users\aless\source\repos\AgentiedeTurism_OOP\AgentiedeTurism_OOP Excluded: 
+Log Level: Normal
+Cover Children: 0
+Aggregate by file: 1
+Continue after C++ exception: 0
+Optimized build support: 0
+Export: Binary C:\Users\aless\AppData\Local\Temp\uasdm0k3.diq 
+Input coverage: 
+Unified diff: 
+Excluded line regular expressions: 
+Substitute pdb source paths: 
+
+[2022-03-18 14:01:56] [info] Module: C:\Users\aless\source\repos\AgentiedeTurism_OOP\x64\Debug\AgentiedeTurism_OOP.exe is selected because it matches selected pattern: C:\Users\aless\source\repos\AgentiedeTurism_OOP\x64\Debug\AgentiedeTurism_OOP.exe
+[2022-03-18 14:01:56] [info] ----------------------------------------------------
+[2022-03-18 14:01:56] [info] Coverage binary generated in file: C:\Users\aless\AppData\Local\Temp\uasdm0k3.diq
+[2022-03-18 14:01:56] [info] ----------------------------------------------------

@@ -1,0 +1,21 @@
+﻿  domain.c
+  DynammicArray.c
+  main.c
+  repository.c
+D:\Oop\project_lab2_4\project_lab2_4\repository.c(50,71): warning C4028: formal parameter 2 different from declaration
+  service.c
+D:\Oop\project_lab2_4\project_lab2_4\service.c(173,22): warning C4047: 'function': 'Participant *' differs in levels of indirection from 'Participant **'
+D:\Oop\project_lab2_4\project_lab2_4\service.c(173,19): warning C4024: 'getAll': different types for formal and actual parameter 2
+D:\Oop\project_lab2_4\project_lab2_4\service.c(189,23): warning C4047: 'function': 'Participant *' differs in levels of indirection from 'Participant **'
+D:\Oop\project_lab2_4\project_lab2_4\service.c(189,20): warning C4024: 'getAll': different types for formal and actual parameter 2
+D:\Oop\project_lab2_4\project_lab2_4\service.c(223,21): warning C4047: 'function': 'Participant *' differs in levels of indirection from 'Participant **'
+D:\Oop\project_lab2_4\project_lab2_4\service.c(223,18): warning C4024: 'getAll': different types for formal and actual parameter 2
+D:\Oop\project_lab2_4\project_lab2_4\service.c(286,2): warning C4020: 'serviceDelete': too many actual parameters
+D:\Oop\project_lab2_4\project_lab2_4\service.c(287,2): warning C4020: 'serviceDelete': too many actual parameters
+D:\Oop\project_lab2_4\project_lab2_4\service.c(288,2): warning C4020: 'serviceDelete': too many actual parameters
+D:\Oop\project_lab2_4\project_lab2_4\service.c(289,2): warning C4020: 'serviceDelete': too many actual parameters
+  test.c
+  ui.c
+  Generating Code...
+D:\Oop\project_lab2_4\project_lab2_4\repository.c(111): warning C4715: 'getParticipant': not all control paths return a value
+  project_lab2_4.vcxproj -> D:\Oop\project_lab2_4\x64\Debug\project_lab2_4.exe

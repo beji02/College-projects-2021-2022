@@ -1,0 +1,128 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.30.30705.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX86\\x86\\c1.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x002BE1C0 -il C:\\Users\\bejan\\AppData\\Local\\Temp\\_CL_46d6b82fast -typedil -f main.c -W 1 -Ze -D_MSC_EXTENSIONS -Zp8 -Gs -pc \\:/ -D_MSC_VER=1930 -D_MSC_FULL_VER=193030705 -D_MSC_BUILD=0 -D_WIN32 -D_M_IX86=600 -D_M_IX86_FP=2 -nologo -Wall -W4 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -DWIN32 -D_DEBUG -D_CONSOLE -D_UNICODE -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -FoDebug\\main.obj -FdDebug\\vc143.pdb -external:W 4 -Gd -analyze:projectdirectory D:\\Oop\\project_lab2_4\\project_lab2_4 -analyze:rulesetdirectory ;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX86\\x86\\EspXEngine.dll -FC -errorreport:prompt -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I D:\\Oop\\project_lab2_4\\project_lab2_4\\Include\\um -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\include -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\include -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I D:\\Oop\\project_lab2_4\\project_lab2_4\\Include\\um -I D:\\Oop\\project_lab2_4\\project_lab2_4\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/ui.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "2ca8eaaf720284c348dc9fb7e027120c043e93bb061b24bba680bf2229164e9b"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/ui.h"
+          },
+          "hashes": {
+            "sha-256": "a0c16388cd88513575fa75ea5cbc13f5b6f9e6c5ea928acece9745fe75bd9bcb"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/service.h"
+          },
+          "hashes": {
+            "sha-256": "500547a3d4265a591989b2bad9f1e1271f4b4a5cf1dac4aafb137744b9f2f421"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/repository.h"
+          },
+          "hashes": {
+            "sha-256": "1883f062d90034e29d20e9bda1f7770b3d9694059f8da8844c7227f5f3ae96f3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/domain.h"
+          },
+          "hashes": {
+            "sha-256": "64e047a1ece9dd4bdc81b3ed84ec3380723c5b51683d1a605dfd852222928381"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/dynamicarray.h"
+          },
+          "hashes": {
+            "sha-256": "4988bd6925cca056bf835601d79aa8062aee32b4ca4dbd5df020d97106584829"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/test.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "c048129eae5b9dafc4b73928cb01e004d4f234a4908ce202e745be123fb02286"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/test.h"
+          },
+          "hashes": {
+            "sha-256": "938ad4171be1bba8918620ed3cde2e0d6f416d8788777121c88902ee6a7f02cf"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/service.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "25d73e6af5cce29d4c3d12cc02bc84aaea990497033e0c296f2b4d05b1ff192a"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/repository.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "9de4581cc9ec95bafe4637e9b5c75590346035a2aca7fdd5ec8f19692b1589c9"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///d:/oop/project_lab2_4/project_lab2_4/main.c"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "adc7389681aaf0e97b7e5265b639a389dd3ae5de867d8aa02cc7ba317a8b91c5"
+          }
+        }
+      ]
+    }
+  ]
+}
