@@ -1,0 +1,5 @@
+75                            ?Da Vinci Code                      ?Dan Brown                     ?0                             ?2                             ?2                             ?roman
+73                            ?Misterul din Caraibe               ?Agatha Christie               ?12                            ?13                            ?1                             ?carte politista
+72                            ?Crima din Orient Express           ?Agatha Christie               ?5                             ?5                             ?1                             ?carte politista               
+71                            ?Craciunul Lui Poirot               ?Agatha Christie               ?3                             ?3                             ?1                             ?carte politista               
+70                            ?10 Negrii Mititei                  ?Agatha Christie               ?10                            ?10                            ?2                             ?carte politista               
