@@ -31,4 +31,4 @@ These are homework projects that I worked on during college.<br /><br />
 - learned how important encapsulation is 
 - learned how C++ OOP works
 - learned important concepts such as Observer pattern and Model–view–controller pattern
-- learned how to create GUI using QtCreator
+- learned how to create GUI using Qt framework
