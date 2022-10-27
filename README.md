@@ -24,11 +24,6 @@ These are homework projects that I worked on during college.<br /><br />
 
 **5. Store manager:**
 - learned how important encapsulation is 
-- learned how C++ OOP works<br /><br />
-
-
-**5. Store manager:**
-- learned how important encapsulation is 
 - learned how C++ OOP works
 - learned important concepts such as Observer pattern and Model–view–controller pattern
 - learned how to create GUI using Qt framework
